@@ -3,7 +3,8 @@
 
 QuickListApp is a simple to-do listing web application created as part of a learning project to explore the integration of Tailwind CSS, React, and Vite.js. The app allows users to quickly and easily manage tasks with a minimalistic yet efficient user interface.
 
-![image](https://github.com/impragya08/QuickList/assets/84717393/4b752b68-9095-4ff1-908b-768e29501290)
+![image](https://github.com/impragya08/YourQuickList/assets/84717393/fdd01247-aaea-4f75-a434-7dc27ce45a99)
+
 
 
 ## Features
@@ -22,7 +23,7 @@ QuickListApp is a simple to-do listing web application created as part of a lear
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/quicklist-app.git`
+1. Clone the repository: `git clone https://github.com/impragya08/quicklist-app.git`
 2. Navigate to the project directory: `cd quicklist-app`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
